@@ -18,9 +18,10 @@
     border-style: solid;
     border-color: rgba(0, 0, 0, 0);
   }
-  .cabecalho-imagem {
+  .fundo{
     width: 100%;
   }
+  
 
   .escola-titulo {
     color: #E5AE09;
