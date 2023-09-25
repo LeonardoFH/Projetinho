@@ -14,6 +14,10 @@
     border-color: black;
   }
 
+  .cabecalho-imagem {
+    width: 100%;
+  }
+
   .escola-titulo {
     color: #E5AE09;
   }
