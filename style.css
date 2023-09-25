@@ -14,6 +14,17 @@
     border-color: rgba(0, 0, 0, 0);
   }
 
+  div {
+    /* Background pattern from Toptal Subtle Patterns */
+       height: 400px;
+       width: 100%;
+       background-image: 
+           url("imagem1.jpg"),
+           url("img1.jpg");
+       background-repeat: no-repeat, no-repeat;
+       background-position: right, left; 
+    }
+
   .cabecalho-imagem {
     width: 100%;
   }
