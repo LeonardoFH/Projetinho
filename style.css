@@ -11,7 +11,7 @@
     cursor: pointer;
     width: 50% 50% 50%;
     border-style: solid;
-    border-color: black;
+    border-color: rgba(0, 0, 0, 0);
   }
 
   .cabecalho-imagem {
@@ -21,7 +21,7 @@
   .escola-titulo {
     color: #E5AE09;
   }
-  
+
 .escola-imagem{
     width: 100%;
 }
