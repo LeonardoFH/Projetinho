@@ -21,7 +21,10 @@
   .escola-titulo {
     color: #E5AE09;
   }
-
+  
+.escola-imagem{
+    width: 100%;
+}
   .custom-button:hover {
     background-color: #E5AE09;
   }
@@ -30,3 +33,6 @@
     text-align: center;
     background-color: #15aa3500;
   }
+.rodape-imagem {
+    width: 100%;
+}
