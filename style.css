@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .custom-button {
     background-color: #15aa3500;
     border: none;
