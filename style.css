@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.imagem-fundo{
+  width: 100%;
+  background-repeat: no-repeat;
+}
 
 .custom-button {
     background-color: #15aa3500;
@@ -18,7 +22,7 @@
     border-style: solid;
     border-color: rgba(0, 0, 0, 0);
   }
-   
+
   .escola-titulo {
     color: #E5AE09;
     text-align: center;
